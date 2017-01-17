@@ -9,6 +9,6 @@ public class Calculate{
         super();
     }
     public void decideOne(){
-        System.out.println("\n");
+        System.out.println("test calculator\n");
     }
 }
